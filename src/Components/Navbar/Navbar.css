@@ -56,6 +56,9 @@ nav ul li {
         display: block;
         margin: 25px 40px;
     }
+    nav ul li .btn{
+        padding: 10px;
+    }
     .menu-icon{
         display: block;
         width: 30px;
